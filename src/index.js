@@ -5,7 +5,6 @@ import React  from 'react';
 //   document.getElementById('root')
 // );
 
-
 //Introducing JSX
 const name= 'IT.Chandra';
 const element= <h1>Hello , {name}</h1>
